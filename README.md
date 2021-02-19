@@ -2,9 +2,6 @@
 
 # React Review
 
-Use this repository to review the material covered in this unit that is likely
-to appear on the Checkpoint.
-
 ## Prerequisites
 
 * Functional JavaScript
